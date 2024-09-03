@@ -1,0 +1,26 @@
+[
+    {
+        "titulo": "Inside Out",
+        "resumen": "Inside Out (titulada Intensamente en Hispanoamérica y Del revés en España) es una película estadounidense de animación por computadora en 3D de comedia dramática y aventuras de 2015, producida por Pixar Animation Studios y distribuida por Walt Disney Pictures.",
+        "enlaceImdb": "https://es.wikipedia.org/wiki/Inside_Out_(pel%C3%ADcula_de_2015)",
+        "imagen": "https://es.wikipedia.org/wiki/Inside_Out_(pel%C3%ADcula_de_2015)#/media/Archivo:Inside_Out_(2015_film)_Logo.svg"
+    },
+    {
+        "titulo": "Inside Out 2",
+        "resumen": "nside Out 2 (Intensamente 2 en Hispanoamérica y Del revés 2 en España) es una película animada estadounidense producida por Pixar Animation Studios para Walt Disney Pictures. La secuela de Inside Out (2015), fue dirigida por Kelsey Mann (en su debut como director), producida por Mark Nielsen y escrita por Meg LeFauve.",
+        "enlaceImdb": "https://es.wikipedia.org/wiki/Inside_Out_2",
+        "imagen": "https://es.wikipedia.org/wiki/Inside_Out_2#/media/Archivo:Inside_Out_2_logo.svg"
+    },
+    {
+        "titulo": "Inside Out",
+        "resumen": "Inside Out (titulada Intensamente en Hispanoamérica y Del revés en España) es una película estadounidense de animación por computadora en 3D de comedia dramática y aventuras de 2015, producida por Pixar Animation Studios y distribuida por Walt Disney Pictures.",
+        "enlaceImdb": "https://es.wikipedia.org/wiki/Inside_Out_(pel%C3%ADcula_de_2015)",
+        "imagen": "https://es.wikipedia.org/wiki/Inside_Out_(pel%C3%ADcula_de_2015)#/media/Archivo:Inside_Out_(2015_film)_Logo.svg"
+    },
+    {
+        "titulo": "Inside Out 2",
+        "resumen": "nside Out 2 (Intensamente 2 en Hispanoamérica y Del revés 2 en España) es una película animada estadounidense producida por Pixar Animation Studios para Walt Disney Pictures. La secuela de Inside Out (2015), fue dirigida por Kelsey Mann (en su debut como director), producida por Mark Nielsen y escrita por Meg LeFauve.",
+        "enlaceImdb": "https://es.wikipedia.org/wiki/Inside_Out_2",
+        "imagen": "https://es.wikipedia.org/wiki/Inside_Out_2#/media/Archivo:Inside_Out_2_logo.svg"
+    }
+]
