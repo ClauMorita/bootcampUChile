@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 interface MainLayoutProps {
     children: React.ReactNode;
 }
@@ -6,7 +8,13 @@ export const MainLayout = (props: MainLayoutProps) => {
     return (
         <div>
             <header>
-                <h1>Header</h1>
+                <ul>
+                    <li><Link to="/">Home Page</Link></li>
+                    <li><Link to="/personajes">Personajes</Link></li>
+                    <li><Link to="/detalle-personaje">Detalle Personajes</Link></li>
+                    <li><Link to="/about">About Page</Link></li>
+                   
+                </ul>
             </header>
             <main>
                 {props.children}
